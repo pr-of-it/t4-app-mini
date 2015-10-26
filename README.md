@@ -1,1 +1,1 @@
-# t4-app-mini
+# Minimal web-application based on T4 framework
