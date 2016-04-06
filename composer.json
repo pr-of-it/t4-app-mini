@@ -2,7 +2,6 @@
   "name": "pr-of-it/t4-app-mini",
   "description": "Minimal web-application based on T4 framework",
   "type": "project",
-  "minimum-stability": "dev",
   "license": "LGPL-3.0",
   "authors": [
     {

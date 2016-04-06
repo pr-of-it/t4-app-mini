@@ -6,5 +6,5 @@ require __DIR__ . '/boot.php';
 require __DIR__ . '/autoload.php';
 
 \T4\Console\Application
-    ::getInstance()
+    ::instance()
     ->run();
