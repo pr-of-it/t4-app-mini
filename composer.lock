@@ -74,16 +74,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pr-of-it/t4.git",
-                "reference": "8347b08b88bae609f6743a0a11bcdbef76f0cecf"
+                "reference": "622ecbd5b03d005605ce563395e71ba764fe1801"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pr-of-it/t4/zipball/8347b08b88bae609f6743a0a11bcdbef76f0cecf",
-                "reference": "8347b08b88bae609f6743a0a11bcdbef76f0cecf",
+                "url": "https://api.github.com/repos/pr-of-it/t4/zipball/622ecbd5b03d005605ce563395e71ba764fe1801",
+                "reference": "622ecbd5b03d005605ce563395e71ba764fe1801",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.6.0",
+                "php": ">=7.0.0",
                 "phpmailer/phpmailer": "5.*",
                 "psr/log": "1.*",
                 "twig/twig": "1.*"
@@ -109,7 +109,7 @@
                 "php",
                 "t4"
             ],
-            "time": "2016-04-06 10:11:25"
+            "time": "2016-04-11 07:27:23"
         },
         {
             "name": "psr/log",
